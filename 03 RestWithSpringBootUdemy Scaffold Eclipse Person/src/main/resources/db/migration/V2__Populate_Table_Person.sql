@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (1,'Rua Sebastianopolis do sul, 67','Daniel','Male','Lima'),(2,'Rua Casa Branca do sul, 118','Emelly','Female','Pereira'),(3,'Avenida ponte de vidro, 118','Geleia de Mocoto','Mole','Da Silva'),(12,'Rua Casa Branca do sul, 118','Last','Mole','First'),(13,'Rua Casa Branca do sul, 118','Last','Mole','First');
